@@ -1,0 +1,164 @@
+#container{
+	background-color:#f3f2f4;
+	width:1050px;
+	height:1200px;
+}
+
+#mainbox{
+	background-color:#5d4a68;
+	width:1000px;
+	height:950px;
+	padding:25px;
+}
+
+h1,h2{
+	display:inline-block;
+	vertical-align: top;
+	margin-bottom:5px;
+}
+
+h1{
+	font-family: sans-serif;
+}
+
+.subtitle{
+	float:right;
+	margin-right:30px;
+}
+
+.titletext{
+	float:left;
+	margin-left:10px;
+	color:white;
+	font-family:Arial;
+	display:block;
+}
+.titlebox{
+	background-color:#9d9c9e;
+	width:525px;
+	height:60px;
+	position:absolute;
+	top:95px;
+}
+#photo, #about_box{
+	display:inline-block;
+	vertical-align:top;
+}
+
+#photo{
+	width:425px;
+	background-color:lightgrey;
+	padding:5px;
+	height:300px;
+}
+
+#about_box{
+	width:525px;
+	background-color: #f3f2f4;
+	float:right;
+	height:310px;
+}
+.infotext{
+	position:absolute;
+	top:60px;
+}
+.sub_box, .right_box{
+	position:relative;
+	margin-top:25px;
+	margin-right:25px;
+	background-color:white;
+	width:314px;
+	height:610px;
+	display:inline-block;
+	vertical-align: top;
+}
+.right_box{
+	margin-right:0px;
+}
+.subtitle_box, .technologies{
+	background-color:#9d9c9e;
+	width:314px;
+	height:60px;
+	position:absolute;
+}
+.subtitle_box{
+	top:0px;
+}
+.technologies{
+	top:375px;
+}
+.portfolio_pics{
+	position:absolute;
+	top:60px;
+	width:314px;
+	height:150px;
+}
+p, a, .subtext{
+	margin:15px;
+	font-family: Arial;
+	font-size:16px;
+	display:block;
+}
+.subtext{
+	position:absolute;
+	top:200px;
+	font-size:15px;
+}
+.badges{
+	position:relative;
+	top:435px;
+	width:45px;
+	height:45px;
+	display:inline-block;
+	margin:7px;
+}
+.button{
+	position:absolute;
+	bottom:20px;
+	background-color: #7fa580;
+	border-radius:7px;
+	padding:4px;
+}
+.buttontext{
+	color:white;
+	font-family:Arial;
+	font-size:15px;
+	font-weight: bold;
+}
+.labutton{
+	margin:auto;
+	display:block;
+	width:80px;
+}
+
+.fambutton{
+	margin:auto;
+	display:block;
+	width:135px;
+}
+.fivebutton{
+	margin:auto;
+	display:block;
+	width:90px;
+}
+.contact, .social{
+	display:inline-block;
+	margin:10px 0;
+	color:#6b6b6b;
+}
+.contact{
+	text-decoration:none;
+}
+.social{
+	font-style: italic;
+}
+.center{
+	text-align:center;
+	background-color: white;
+}
+.icon{
+	width:20px;
+	height:20px;
+	vertical-align:top;
+	margin:0 3px;
+}
